@@ -117,9 +117,6 @@ The project includes hardware-aware profiling:
 * KaggleHub
 * Psutil
 
-## 👨‍💻 Author
-**Deep Learning Research Project**
-*Eye Disease Classification with CNN & Transfer Learning*
 
 ## ⭐ Project Goal
 This project aims to demonstrate how different deep learning architectures behave in a real-world medical imaging task and to provide a systematic comparison of modern CNN-based models.
