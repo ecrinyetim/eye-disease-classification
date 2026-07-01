@@ -106,7 +106,8 @@ The project includes hardware-aware profiling:
 ├── improved_training_strategies
 ├── evaluation_and_metrics
 ├── performance_comparison
-└── scenario_based_experiments
+└── scenario_based_experiments 
+```
 
 ## 📌 Technologies Used
 * TensorFlow / Keras
