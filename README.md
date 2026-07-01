@@ -1,4 +1,5 @@
-# 👁️ Eye Disease Classification Using Deep Learning 
+# 👁️ Eye Disease Classification Using Deep Learning  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ecrinyetim/eye-disease-classification/blob/main/DL26.ipynb)
 
 ## 🚀 Project Overview
 
